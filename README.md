@@ -11,7 +11,7 @@
   
   You can find this project up on:
   
-  https://notice-board-sp-js.herokuapp.com/
+  https://notice-board-sp.herokuapp.com/
   
   or by using your IDE or executing the following while in the root directory:
   
