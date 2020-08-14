@@ -1,0 +1,51 @@
+.badge {
+    border: none;
+}
+.center {
+    text-align: center;
+}
+#main {
+    margin-top: 50px;
+}
+
+#add-button {
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+.card {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.clear{clear:both;}
+
+.entry .close {
+    color: #ff0000;
+}
+
+.comment-date {
+    width: 80%;
+    float: left;
+    color: dimgrey;
+}
+
+.card-header .btn-group {
+    width: 10%;
+    margin-right: 5%;
+    float:right;
+}
+
+.oi {
+    top: 4px;
+}
+
+#pluswrap {
+    position: fixed;
+    width: 100%;
+    height:100%;
+    display: flex;
+    top: 0;
+}
+
+.plus {
+    margin: auto;
+}
