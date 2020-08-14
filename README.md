@@ -56,6 +56,10 @@
   |text|String|non null|
   |author|User|non null|
   
+  These JPA classes will end up with the following database:
+  
+  ![relationship diagram](relationship.png "Relationship diagram")
+  
   The **WebController** handles the request for the index page.
   The **BasicErrorController** handles 404, 500 and some other errors and displays a page.
   
